@@ -1,0 +1,3 @@
+# This directory is populated by goreleaser on each release tag.
+# See https://github.com/crewship-ai/crewship/.goreleaser.yml — the `brews:`
+# block writes crewship.rb here as the brew formula.
